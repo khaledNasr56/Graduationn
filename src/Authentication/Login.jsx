@@ -171,7 +171,7 @@ export default function Login() {
           <div className={authCSS.submit_container}>
             <p className={authCSS.login}>
               {" "}
-              Dont have an account? <a href="#">Sign Up</a>
+              Don`t have an account? <a href="#">Sign Up</a>
             </p>
           </div>
         </form>
